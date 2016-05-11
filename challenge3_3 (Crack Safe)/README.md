@@ -15,7 +15,7 @@ The first element in every list is fixed at zero.
 
 This program implements two solutions, and prints the unencrypted combination from 
 each solution (which are the same), along with the execution times of the two solution 
-methods. The encryptedcombination is assigned in the the Main function and passed to 
+methods. The encrypted combination is assigned in the the Main function and passed to 
 both methods. 
 
 	Example:
