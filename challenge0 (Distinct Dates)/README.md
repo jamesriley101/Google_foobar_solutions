@@ -16,4 +16,4 @@ formed, that date is returned (Month/Day/Year) as a string.
 	Ambiguous
 
 In this implementation the integers are entered as arguments into 
-return_result in the Main class method within a print statement.
+return_result within a print statement in the Main class method.
